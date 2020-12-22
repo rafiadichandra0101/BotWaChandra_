@@ -110,9 +110,9 @@ Ket: Aktif 24 jam
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/rafiadichandra)
-* [ `Admin WhatsApp` ] (https://wa.me/+6281218898489)
-* [ `Grup WhatsApp` ] (https://chat.whatsapp.com/DFyqVSqwxvfCVcpy2VAxg3)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+* [ `Admin WhatsApp` ](https://wa.me/+6281218898489 )
+* [ `Grup WhatsApp` ](https://chat.whatsapp.com/DFyqVSqwxvfCVcpy2VAxg3 )
+## TERIMA KASIH < img  src = " https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif "  width = "60px" >
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
