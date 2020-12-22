@@ -98,14 +98,14 @@ Script ini di modifikasi sama saya sendiri Chandra ID.
 |       ✅       | leave                             |
 |       ✅       | url2img                           |
 |       ✅       | wait                          |
-|            info/donate/creator                  |
-
+| info / donasi / pencipta |
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s>
 Ket: Aktif 24 jam
-
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif"width="29px">
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s>
+## DONASI <img src ="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width = "29px " >
 * [ `Donasi 👾Chanz'BOT👾` ](https://link.dana.id/qr/2all4d6s)
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s>
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s>
 ## ADMIN MEDIA SOSIAL <img src ="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif"width="29px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
