@@ -1,2 +1,0 @@
-# BotWaChandra_
-Gaada deskripsinya :(
