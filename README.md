@@ -102,17 +102,17 @@ Script ini di modifikasi sama saya sendiri Chandra ID.
 
 Ket: Aktif 24 jam
 
-## DONASI<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif"width="29px">
 * [ `Donasi 👾Chanz'BOT👾` ](https://link.dana.id/qr/2all4d6s)
 </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
 </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
-## ADMIN MEDIA SOSIAL < img  src = " https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif "  width = "29px" >
+## ADMIN MEDIA SOSIAL <img src ="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif"width="29px">
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/rafiadichandra)
 * [ `Admin WhatsApp` ](https://wa.me/+6281218898489 )
 * [ `Grup WhatsApp` ](https://chat.whatsapp.com/DFyqVSqwxvfCVcpy2VAxg3 )
-## TERIMA KASIH<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"width ="60px">
+## TERIMA KASIH <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif"width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
